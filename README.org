@@ -1,0 +1,61 @@
+#+TITLE:Pokemon Green's school of Japanese
+#+AUTHOR:Archenoth
+#+EMAIL:Archenoth@gmail.com
+:SETTINGS:
+#+STARTUP: hidestars inlineimages
+#+DRAWERS: KANA SETTINGS
+#+LINK: translate https://translate.google.com/?sl=ja&tl=en&hl=en&q=
+#+LINK: jisho http://jisho.org/search?utf8=%E2%9C%93&keyword=
+#+TAGS: Hiragana(h) Katakana(k) Kanji(g) Study(s) Code(c) drill(d)
+#+OPTIONS: ^:nil H:3 p:nil tags:not-in-toc todo:nil toc:nil
+#+PROPERTY: header-args :exports both :eval never-export
+#+LANGUAGE: jp
+#+LATEX_CLASS: japanese
+#+LATEX_HEADER: \usepackage{textcomp}
+#+LATEX_HEADER: \usepackage{parskip}
+#+LATEX_HEADER: \usemintedstyle{friendly}
+#+LATEX_HEADER: \renewcommand{\contentsname}{Table of Contents}
+#+TOC: headlines 3
+#+LATEX: \pagebreak
+:END:
+
+#+ATTR_LATEX: :width 550
+#+CAPTION:Image copyright Nintendo/Creatures/GAME FREAK
+[[./pokemon20.jpg]]
+
+So, it is [[http://www.pokemon20.com/][Pokemon Day]]! The 20th anniversary of the release of the
+[[https://en.wikipedia.org/wiki/Pok%C3%A9mon_Red_and_Blue][original Pokemon games in Japan]]. It is also a very special day for me!
+
+Why?
+
+Because today, I am going to start one of the original Pokemon games
+in Japanese! My new year's resolution this year was to be able to read
+Japanese, so I am hard at work getting up to speed with the language.
+
+I decided I wanted to try to do this, partially because I wanted to
+have a project to stay resolved, and partially because I wanted to see
+if I could do it...
+
+* How will it work?
+I will play through Pokemon Green and, armed only with [[http://jisho.org/][Jisho]], my
+current Japanese knowledge, and some persistence, I will play until I
+don't understand something--then stop.
+
+Each time I save and stop, I will make a Git commit with my save file,
+notes about what I accomplished, and what I learned.
+
+So! Let the games begin!
+
+* Metadata                                                         :noexport:
+# Local Variables:
+# org-latex-classes: (quote
+#    ("japanese" "\\documentclass[UTF8]{ctexart}"
+#      ("\\section{%s}" . "\\section*{%s}")
+#      ("\\subsection{%s}" . "\\subsection*{%s}")
+#      ("\\subsubsection{%s}" . "\\subsubsection*{%s}")
+#      ("\\paragraph{%s}" . "\\paragraph*{%s}")
+#      ("\\subparagraph{%s}" . "\\subparagraph*{%s}")))
+# org-use-property-inheritance: t
+# org-image-actual-width: nil
+# eval: (org-display-inline-images t nil)
+# End:
