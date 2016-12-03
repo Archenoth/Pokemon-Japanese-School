@@ -24,12 +24,12 @@ the =.sav= file included in this repository.
 
 Note, that this isn't my attempt at localizing Pokemon Green, so some
 of the English may sound kinda weird. That's because I will attempt to
-write the English in such a way to understand the Japanese as
+write the English in such a way as to understand the Japanese as
 literally as possible.
 
 Also, you may need some Japanese knowledge to follow along, though I
 will link to most of the grammar points that are beyond a basic
-level. I will also link a ridiculous amount of vocabulary to they are
+level. I will also link a ridiculous amount of vocabulary so they are
 easy to look up. Even so, it is recommended to be familiar with
 [[https://www.tofugu.com/japanese/learn-hiragana/][Hiragana]] and [[https://www.tofugu.com/japanese/learn-katakana/][Katakana]], as well as some basic Japanese Grammar. I'll
 try to explain some of the more tricky points though.
@@ -38,9 +38,9 @@ try to explain some of the more tricky points though.
 There really are only a few things to translate here, and those are
 the title:
 
-#+BEGIN_QUOTE
+#+BEGIN_EXAMPLE
 ポケットモンスター
-#+END_QUOTE
+#+END_EXAMPLE
 
 This says "Pocket Monsters" ([[jisho:ポッケトモンスター][ポッケトモンスター]]), or what "Pokemon"
 ([[jisho:ポケモ
@@ -48,28 +48,28 @@ This says "Pocket Monsters" ([[jisho:ポッケトモンスター][ポッケト�
 
 The following menu has two options:
 
-#+BEGIN_QUOTE
+#+BEGIN_EXAMPLE
 さいしょからはじめる
-#+END_QUOTE
+#+END_EXAMPLE
 This means 「Start ([[jisho:はじめる][はじめる]]) from ([[jisho:から][から]]) the beginning ([[jisho:さいしょ][さいしょ]])」
 
-#+BEGIN_QUOTE
+#+BEGIN_EXAMPLE
 せっていを かえる
-#+END_QUOTE
+#+END_EXAMPLE
 This means 「Change ([[jisho:かえる][かえる]]) settings ([[jisho:せってい][せってい]])」
 
 ** Settings
-#+BEGIN_QUOTE
+#+BEGIN_EXAMPLE
 はなしの はやさ
   はやい   ふつう   おそい
-#+END_QUOTE
+#+END_EXAMPLE
 This top setting is talking ([[jisho:はなし][はなし]]) speed ([[jisho:はやさ][はやさ]]), and the three
-choices are fast (はやい) normal (ふつう), and slow (おそい)。
+choices are fast ([[jisho:はやい][はやい]]) normal ([[jisho:ふつう][ふつう]]), and slow ([[jisho:おそい][おそい]])。
 
-#+BEGIN_QUOTE
+#+BEGIN_EXAMPLE
 せんとう アニメーション
   じっくり みる   とばして みる
-#+END_QUOTE
+#+END_EXAMPLE
 
 This setting means「Battle ([[jisho:せんとう][せんとう]]) animations ([[jisho:アニメーション][アニメーション]])」,
 and the two options are 「Thoroughly ([[jisho:じっくり][じっくり]]) see ([[jisho:みる][みる]])」and
@@ -77,10 +77,10 @@ and the two options are 「Thoroughly ([[jisho:じっくり][じっくり]]) see
 
 So basically, "See battle animations" or "Omit battle animations".
 
-#+BEGIN_QUOTE
+#+BEGIN_EXAMPLE
 しあいの ルール
   いれかえタイプ   からぬきタイプ
-#+END_QUOTE
+#+END_EXAMPLE
 This setting means「Match ([[jisho:しあい][しあい]]) rules ([[jisho:ルール][ルール]])」and the two options
 are「Switching ([[jisho:いれかえ][いれかえ]]) type ([[jisho:タイプ][タイプ]])」and「From ([[jisho:から][から]]) succession ([[jisho:ぬ
 き][ぬき]])
@@ -97,21 +97,21 @@ Now, time for the actual game!
 
 * The Oakster's speech
 The game begins with a speech from, as we know him, Professor Oak:
-#+BEGIN_QUOTE
+#+BEGIN_EXAMPLE
 はじめまして！
 
 ポケット モンスターの せかいへ
 ようこそ！
-#+END_QUOTE
+#+END_EXAMPLE
 
 This says "Hello! ([[jisho:はじめまして][はじめまして]]！) Welcome ([[jisho:ようこそ][ようこそ]]) to ([[https://www.renshuu.org/grammar/468/%E3%81%B8][へ]]) the
 world ([[jisho:せかい][せかい]]) of ([[https://www.renshuu.org/grammar/132/の][の]]) Pocket Monsters ([[jisho:ポケット モンスター][ポケット モンスター]])！"
 
-#+BEGIN_QUOTE
+#+BEGIN_EXAMPLE
 わたしの なまえは オーキド
 みんなからは ポケモン はかせと
 したわれた おるよ
-#+END_QUOTE
+#+END_EXAMPLE
 My ([[jisho:わたし][わたし]] [[jisho:の][の]]) name ([[jisho:なまえ][なまえ]]) is ([[jisho:は][は]]) Okkido. ([[jisho:オーキド][オーキド]]) To ([[jisho:から][から]] [[jisho:は][は]])
 everyone ([[jisho:みんな][みんな]]) I have been ([[jisho:した][したわれて]] [[jisho:おる][おる]]) known as ([[jisho:と][と]]) the
 Pokemon ([[jisho:ポケモン][ポケモン]]) Dr. ([[jisho:はかせ][はかせ]]) !([[jisho:よ][よ]])
@@ -124,12 +124,12 @@ The と here is like a quote, and したわれて is the [[https://www.renshuu.o
 So it's like saying "times that everyone has called me the Pokemon
 Dr. have existed", or "Everyone calls me the Pokemon Professor".
 
-#+BEGIN_QUOTE
+#+BEGIN_EXAMPLE
 この せかいには
 ポケット モンスターと よばれる
 いきもの たちが
 いたるところに すんでいる！
-#+END_QUOTE
+#+END_EXAMPLE
 
 For ([[jisho:には][には]]) this ([[jisho:この][この]]) world ([[jisho:せかい][せかい]]), the living things ([[jisho:いきもの][いきもの]])
 called ([[jisho:よばれる][よばれる]]) Pocket Monsters ([[jisho:ポケット モンスター][ポケット モンスター]]) live ([[jisho:すんでいる][すんでいる]])
@@ -148,11 +148,11 @@ putting an "-ing" at the end of a verb. (Live vs Living)
 This makes the entire sentence more-less "In this world, the creatures
 known as Pokemon live everywhere!"
 
-#+BEGIN_QUOTE
+#+BEGIN_EXAMPLE
 その ポケモン という いきものを
 ひとは ペットに したり
 しょうぶに つかったり。。。
-#+END_QUOTE
+#+END_EXAMPLE
 Those ([[jisho:その][その]]) living things ([[jisho:いきもの][いきもの]]) known as ([[jisho:という][という]]) Pokemon ([[jisho:ポケモン][ポケモン]]):
 some people ([[jisho:ひと][ひと]] ... [[jisho:したり][したり]]) have them as ([[jisho:に][に]] [[jisho:した][した]]) pets ([[jisho:ペット][ペット]]) and
 some use them ([[jisho:つかったり][つかったり]]) for ([[jisho:に][に]]) matches ([[jisho:しょうぶ][しょうぶ]]).
@@ -163,22 +163,22 @@ this case, having Pokemon as pets and using Pokemon for matches.
 The sentence overall reads like "Some people keep these creatures
 known as Pokemon as pets, and others use them for battles."
 
-#+BEGIN_QUOTE
+#+BEGIN_EXAMPLE
 そして。。。
-#+END_QUOTE
+#+END_EXAMPLE
 "[[http://thejapanesepage.com/grammar/chapter_one/and_to_soshite][and]]..."
 
-#+BEGIN_QUOTE
+#+BEGIN_EXAMPLE
 わたしは この ポケモンの
 けんきゅうを してる というわけだ
-#+END_QUOTE
+#+END_EXAMPLE
 The research ([[jisho:けんきゅう][けんきゅう]]) of these ([[jisho:この][この]] ... [[jisho:の][の]]) Pokemon ([[jisho:ポケモン][ポケモン]]) is
 my ([[jisho:わたし][わたし]] [[jisho:は][は]]) reason ([[https://www.renshuu.org/grammar/489/%E3%82%8F%E3%81%91%E3%81%A0][という わけ だ]]).
 
-#+BEGIN_QUOTE
+#+BEGIN_EXAMPLE
 では はじめに きもの なまえを
 おしえて もらおう！
-#+END_QUOTE
+#+END_EXAMPLE
 So ([[jisho:では][では]]) to start ([[jisho:はじめに][はじめに]]) give me ([[jisho:もらおう][もらおう]]) teaching ([[jisho:おしえて][おしえて]])
 of your ([[jisho:きみ][きみ]] [[jisho:の][の]]) name ([[jisho:なまえ][なまえ]])!
 
@@ -191,41 +191,43 @@ The おしえて is the て-form of [[jisho:おしえる][おしえる]], so it 
 in a way.
 
 The names we can choose from are:
-#+BEGIN_QUOTE
+#+BEGIN_EXAMPLE
 じぶんできめる
 グリーン
 シゲル
 ジョン
-#+END_QUOTE
+#+END_EXAMPLE
 
-Those are Green ([[jisho:グリーン][グリーン]]), Shigeru ([[jisho:シゲル][シゲル]]), Jon ([[jisho:ジョン][ジョン]]), and by my
-([[jisho:じぶん][じぶん]] [[jisho:で][で]]) decision ([[jisho:きめる][きめる]]).
+Those are Green ([[jisho:グリーン][グリーン]]), Shigeru ([[jisho:シゲル][シゲル]]), Jon ([[jisho:ジョン][ジョン]]), and Decide
+([[jisho:きめる][きめる]]) by ([[jisho:で][で]]) myself ([[jisho:じぶん][じぶん]]).
 
 Of course, with so much name confusion, who wouldn't want to play as
 Green?
 
-#+BEGIN_QUOTE
+#+BEGIN_EXAMPLE
 ふむ。。。
 クリーン と いうんだな！
-#+END_QUOTE
-I see... ([[jisho:ふむ][ふむ]])
+#+END_EXAMPLE
+Hmm... ([[jisho:ふむ][ふむ]])
 "Green" ([[jisho:グリーン][グリーン]] [[jisho:と][と]]) is what you are named ([[jisho:いう][いう]] [[jisho:んだ][んだ]]) huh? ([[jisho:な][な]])
 
 Once again, the と here is a quote. The (いうんだ) is adding
 information to the current context ([[http://japanese.stackexchange.com/a/5399/10600][んだ]]) using what you called
 yourself. (グリーン と いう)
 
-#+BEGIN_QUOTE
+Also, the "ふむ" here is actually an onomatopoeia for "Hmm", and not
+read like "fu-mu" or anything.
+
+#+BEGIN_EXAMPLE
 こいつは わたしの まご
 きみの おさななじみであり
 ライバル である
-#+END_QUOTE
+#+END_EXAMPLE
 This guy ([[jisho:こいつ][こいつ]]) is ([[jisho:は][は]]) my ([[jisho:わたし][わたし]] [[jisho:の][の]]) grandchild ([[jisho:まご][まご]])
 He exists ([[jisho:あり][あり]]) as ([[jisho:で][で]]) your ([[jisho:きみ][きみ]] [[jisho:の][の]]) childhood friend ([[jisho:おさななじみ][おさななじみ]])
 He exists ([[jisho:ある][ある]]) as ([[jisho:で][で]]) a rival ([[jisho:ライバル][ライバル]])
 
 Lots of "exists" here. The difference between ある and あり is that
-
 あり is stem-form, which allows you to chain other statements after
 it, so basically this can be parsed as two sentences, with the second
 containing two statements separated by "and":
@@ -236,10 +238,10 @@ containing two statements separated by "and":
   and rival
 #+END_EXAMPLE
 
-#+BEGIN_QUOTE
+#+BEGIN_EXAMPLE
 。。。えーと？
 なまえは なんて いったかな？
-#+END_QUOTE
+#+END_EXAMPLE
 ...uhh? ([[jisho:えーと][えーと]])
 What ([[jisho:なんて][なんて]]) was ([[jisho:いった][いった]]) the name ([[jisho:なまえ][なまえ]])?([[jisho:か][か]] [[jisho:な][な]]？)
 
@@ -251,22 +253,22 @@ with a small touch of "Oh dear" in it. いった is the past-tense of
 "to name" , which is why I put it next to "was".
 
 The names are:
-#+BEGIN_QUOTE
+#+BEGIN_EXAMPLE
 じぶんできめる
 レード
 サトシ
 ジャック
-#+END_QUOTE
+#+END_EXAMPLE
 So once again we have "Decide ([[jisho:きめる][きめる]]) by ([[jisho:で][で]]) myself ([[jisho:じぶん][じぶん]])" and
 three other names: Red ([[jisho:レード][レード]]), Satoshi ([[jisho:サトシ][サトシ]]), and Jack ([[jisho:ジャック][ジャック]]).
 
 The rival from the original games was definitely Red. (Smell ya
 later!)
 
-#+BEGIN_QUOTE
+#+BEGIN_EXAMPLE
 そうだ そうだ！ おもいだしたぞ
 レッド という なまえだ
-#+END_QUOTE
+#+END_EXAMPLE
 Right ([[jisho:そうだ][そうだ]]) right ([[jisho:そうだ][そうだ]])! I remembered ([[jisho:おもいだした][おもいだした]])!
 The name ([[jisho:なまえ][なまえ]]) is known as ([[jisho:という][という]]) Red ([[jisho:レード][レード]])
 
@@ -278,43 +280,43 @@ saying something is known as something else. For example
 "ポケモン という ケーム" which is "Pokemon という game", or "The game
 known as Pokemon".
 
-#+BEGIN_QUOTE
+#+BEGIN_EXAMPLE
 グリーン！
-#+END_QUOTE
+#+END_EXAMPLE
 "Green!"
 
-#+BEGIN_QUOTE
+#+BEGIN_EXAMPLE
 いよいよ これから
 きみの ものがたりの はじまりだ！
-#+END_QUOTE
+#+END_EXAMPLE
 Finally ([[jisho:いよいよ][いよいよ]]) from now on ([[jisho:これから][これから]])
-This is ([[jisho:だ][だ]]) your ([[jisho:きみ][きみ]] [[jisho:の][の]]) tale ([[jisho:ものがたり][ものがたり]]) beginning ([[jisho:はじまりだ][はじまり]])!
+this is ([[jisho:だ][だ]]) your ([[jisho:きみ][きみ]] [[jisho:の][の]]) tale ([[jisho:ものがたり][ものがたり]]) beginning ([[jisho:はじまりだ][はじまり]])!
 
-#+BEGIN_QUOTE
+#+BEGIN_EXAMPLE
 ゆめと ぼうけんと！
 ポケット モンスターの せかいへ！
-#+END_QUOTE
+#+END_EXAMPLE
 Dreams ([[jisho:ゆめ][ゆめ]]) and adventures ([[jisho:ぼうけん][ぼうけん]])!
 Go to ([[jisho:へ][へ]]) the World ([[jisho:せかい][せかい]]) of ([[jisho:の][の]]) Pocket Monsters ([[jisho:ポケット モンスター][ポケット モンスター]])!
 
 The [[https://www.renshuu.org/grammar/110/%E3%81%A8][と]] here is an exhaustive list. This means that you can't add
 things to it like with [[https://www.renshuu.org/grammar/469/%E3%82%84][や]]. The [[https://www.renshuu.org/grammar/468/%E3%81%B8][へ]] at the end means "Go to" basically.
 
-#+BEGIN_QUOTE
+#+BEGIN_EXAMPLE
 レード ゴー！
-#+END_QUOTE
+#+END_EXAMPLE
 "Red go!"
 
 * The in-game menu
 The in-game menu has a few entries
-#+BEGIN_QUOTE
+#+BEGIN_EXAMPLE
 ポケモン
 どうぐ
 グリーン
 レポート
 せってい
 とじる
-#+END_QUOTE
+#+END_EXAMPLE
 
 And they mean:
  - Pokemon ([[jisho:ポケモン][ポケモン]])
@@ -331,34 +333,32 @@ save.
 The save screen shows text in about two trillion different windows:
 
 Details:
-#+BEGIN_QUOTE
+#+BEGIN_EXAMPLE
 しゅじんんこう   グリーン
 もってるバッジ ０ こ
 ポケモンずかん ０ひき
 プレイじかん  ０：２２
-#+END_QUOTE
+#+END_EXAMPLE
 Which would be:
 
-#+BEGIN_QUOTE
-Protagonist ([[jisho:しゅじんんこう][しゅじんんこう]])   Green ([[jisho:グリーン][グリーン]])
-Held ([[jisho:もってる][もってる]]) Badges ([[jisho:バッジ][バッジ]]) ０ Articles ([[jisho:こ][こ]])
-Pokemon ([[jisho:ポケモン][ポケモン]]) Field guide ([[jisho:ずかん][ずかん]]) ０ Creatures ([[jisho:ひき][ひき]])
-Play ([[jisho:プレイ][プレイ]]) time ([[jisho:じかん][じかん]])  ０：２２
-#+END_QUOTE
+ - Protagonist ([[jisho:しゅじんんこう][しゅじんんこう]])   Green ([[jisho:グリーン][グリーン]])
+ - Held ([[jisho:もってる][もってる]]) Badges ([[jisho:バッジ][バッジ]]) ０ Articles ([[jisho:こ][こ]])
+ - Pokemon ([[jisho:ポケモン][ポケモン]]) Field guide ([[jisho:ずかん][ずかん]]) ０ Creatures ([[jisho:ひき][ひき]])
+ - Play ([[jisho:プレイ][プレイ]]) time ([[jisho:じかん][じかん]])  ０：２２
 
 (Yes I did spend 22 minutes saving)
 
 Question:
-#+BEGIN_QUOTE
+#+BEGIN_EXAMPLE
 ここまでの かつやくを
 ポケモンレポートに かきこみますか？
-#+END_QUOTE
-Will you save ([[jisho:かきこみます][かきこみます]] [[jisho:か][か]]) in ([[jisho:に][に]]) the Pokemon Report
+#+END_EXAMPLE
+Will you save ([[jisho:かきこみます][かきこみます]] [[jisho:か][か]]) in ([[jisho:に][に]]) the Pokemon Report,
 ([[jisho:ポケモンレポート][ポケモンレポート]]) activities ([[jisho:かつやく][かつやく]]) up until now ([[jisho:ここまで][ここまで]])?
 
 Response:
-#+BEGIN_QUOTE
+#+BEGIN_EXAMPLE
 はい
 いいえ
-#+END_QUOTE
+#+END_EXAMPLE
 Yes ([[jisho:はい][はい]]) and no ([[jisho:いいえ][いいえ]])
