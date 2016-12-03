@@ -1,0 +1,364 @@
+#+TITLE:Pokemon Japanese School Translation
+#+AUTHOR:Archenoth
+#+EMAIL:Archenoth@gmail.com
+:SETTINGS:
+#+STARTUP: hidestars
+#+DRAWERS: KANA SETTINGS
+#+LINK: translate https://translate.google.com/?sl=ja&tl=en&hl=en&q=
+#+LINK: jisho http://jisho.org/search?utf8=%E2%9C%93&keyword=
+#+TAGS: Translation(t)
+#+OPTIONS: ^:nil H:3 p:nil tags:not-in-toc todo:nil toc:nil
+#+PROPERTY: header-args :exports both :eval never-export
+#+LANGUAGE: jp
+#+LATEX_CLASS: japanese
+#+LATEX_HEADER: \usepackage{textcomp}
+#+LATEX_HEADER: \usepackage{parskip}
+#+LATEX_HEADER: \usemintedstyle{friendly}
+#+LATEX_HEADER: \renewcommand{\contentsname}{Table of Contents}
+#+TOC: headlines 3
+#+LATEX: \pagebreak
+:END:
+
+This file will be my translation of Pokemon Green, and will accompany
+the =.sav= file included in this repository.
+
+Note, that this isn't my attempt at localizing Pokemon Green, so some
+of the English may sound kinda weird. That's because I will attempt to
+write the English in such a way to understand the Japanese as
+literally as possible.
+
+Also, you may need some Japanese knowledge to follow along, though I
+will link to most of the grammar points that are beyond a basic
+level. I will also link a ridiculous amount of vocabulary to they are
+easy to look up. Even so, it is recommended to be familiar with
+[[https://www.tofugu.com/japanese/learn-hiragana/][Hiragana]] and [[https://www.tofugu.com/japanese/learn-katakana/][Katakana]], as well as some basic Japanese Grammar. I'll
+try to explain some of the more tricky points though.
+
+* The title and menus
+There really are only a few things to translate here, and those are
+the title:
+
+#+BEGIN_QUOTE
+ポケットモンスター
+#+END_QUOTE
+
+This says "Pocket Monsters" ([[jisho:ポッケトモンスター][ポッケトモンスター]]), or what "Pokemon"
+([[jisho:ポケモ
+ン][ポケモン]]) is a contraction of.
+
+The following menu has two options:
+
+#+BEGIN_QUOTE
+さいしょからはじめる
+#+END_QUOTE
+This means 「Start ([[jisho:はじめる][はじめる]]) from ([[jisho:から][から]]) the beginning ([[jisho:さいしょ][さいしょ]])」
+
+#+BEGIN_QUOTE
+せっていを かえる
+#+END_QUOTE
+This means 「Change ([[jisho:かえる][かえる]]) settings ([[jisho:せってい][せってい]])」
+
+** Settings
+#+BEGIN_QUOTE
+はなしの はやさ
+  はやい   ふつう   おそい
+#+END_QUOTE
+This top setting is talking ([[jisho:はなし][はなし]]) speed ([[jisho:はやさ][はやさ]]), and the three
+choices are fast (はやい) normal (ふつう), and slow (おそい)。
+
+#+BEGIN_QUOTE
+せんとう アニメーション
+  じっくり みる   とばして みる
+#+END_QUOTE
+
+This setting means「Battle ([[jisho:せんとう][せんとう]]) animations ([[jisho:アニメーション][アニメーション]])」,
+and the two options are 「Thoroughly ([[jisho:じっくり][じっくり]]) see ([[jisho:みる][みる]])」and
+「Omit ([[jisho:とばして][とばして]]) seeing ([[jisho:みる][みる]]) them」。
+
+So basically, "See battle animations" or "Omit battle animations".
+
+#+BEGIN_QUOTE
+しあいの ルール
+  いれかえタイプ   からぬきタイプ
+#+END_QUOTE
+This setting means「Match ([[jisho:しあい][しあい]]) rules ([[jisho:ルール][ルール]])」and the two options
+are「Switching ([[jisho:いれかえ][いれかえ]]) type ([[jisho:タイプ][タイプ]])」and「From ([[jisho:から][から]]) succession ([[jisho:ぬ
+き][ぬき]])
+type ([[jisho:タイプ][タイプ]])」
+
+These are the two classic battle types for Pokemon, the switch type
+which lets you switch Pokemon after you defeat an opponent (Easy mode)
+and "Set type" where you have to use a turn to switch. (Which is the
+best type, and you should use it.)
+
+Finally, the last word in the screen means "Finish" ([[jisho:おわり][おわり]]) .
+
+Now, time for the actual game!
+
+* The Oakster's speech
+The game begins with a speech from, as we know him, Professor Oak:
+#+BEGIN_QUOTE
+はじめまして！
+
+ポケット モンスターの せかいへ
+ようこそ！
+#+END_QUOTE
+
+This says "Hello! ([[jisho:はじめまして][はじめまして]]！) Welcome ([[jisho:ようこそ][ようこそ]]) to ([[https://www.renshuu.org/grammar/468/%E3%81%B8][へ]]) the
+world ([[jisho:せかい][せかい]]) of ([[https://www.renshuu.org/grammar/132/の][の]]) Pocket Monsters ([[jisho:ポケット モンスター][ポケット モンスター]])！"
+
+#+BEGIN_QUOTE
+わたしの なまえは オーキド
+みんなからは ポケモン はかせと
+したわれた おるよ
+#+END_QUOTE
+My ([[jisho:わたし][わたし]] [[jisho:の][の]]) name ([[jisho:なまえ][なまえ]]) is ([[jisho:は][は]]) Okkido. ([[jisho:オーキド][オーキド]]) To ([[jisho:から][から]] [[jisho:は][は]])
+everyone ([[jisho:みんな][みんな]]) I have been ([[jisho:した][したわれて]] [[jisho:おる][おる]]) known as ([[jisho:と][と]]) the
+Pokemon ([[jisho:ポケモン][ポケモン]]) Dr. ([[jisho:はかせ][はかせ]]) !([[jisho:よ][よ]])
+
+Okkido! That is his original name in Japanese.
+
+The と here is like a quote, and したわれて is the [[https://www.renshuu.org/grammar/51/Passive][passive]] [[https://www.renshuu.org/grammar/479/Past%20Casual][past-tense]]
+[[https://www.renshuu.org/grammar/101/%E3%81%A6][て-form]] of [[jisho:した][した]].
+
+So it's like saying "times that everyone has called me the Pokemon
+Dr. have existed", or "Everyone calls me the Pokemon Professor".
+
+#+BEGIN_QUOTE
+この せかいには
+ポケット モンスターと よばれる
+いきもの たちが
+いたるところに すんでいる！
+#+END_QUOTE
+
+For ([[jisho:には][には]]) this ([[jisho:この][この]]) world ([[jisho:せかい][せかい]]), the living things ([[jisho:いきもの][いきもの]])
+called ([[jisho:よばれる][よばれる]]) Pocket Monsters ([[jisho:ポケット モンスター][ポケット モンスター]]) live ([[jisho:すんでいる][すんでいる]])
+everywhere ([[jisho:いたるところ][いたるところ]]).
+
+"called Pocket Monsters" (ポケット モンスター と よばれる) [[http://www.guidetojapanese.org/subclause.html#part3][modifies]]
+「いきもの」(Living thing) たち (plural), giving us "The living
+things called Pocket Monsters..."
+
+The と, once again is a quote. So 「ポケット モンスター と よばれる」
+is essentially 「called "ポケット モンスター"」.
+
+すんでいる is the [[https://www.renshuu.org/grammar/16/%E3%81%A6%E3%81%84%E3%82%8B][progressive]] form of [[jisho:すむ][すむ]], which basically is like
+putting an "-ing" at the end of a verb. (Live vs Living)
+
+This makes the entire sentence more-less "In this world, the creatures
+known as Pokemon live everywhere!"
+
+#+BEGIN_QUOTE
+その ポケモン という いきものを
+ひとは ペットに したり
+しょうぶに つかったり。。。
+#+END_QUOTE
+Those ([[jisho:その][その]]) living things ([[jisho:いきもの][いきもの]]) known as ([[jisho:という][という]]) Pokemon ([[jisho:ポケモン][ポケモン]]):
+some people ([[jisho:ひと][ひと]] ... [[jisho:したり][したり]]) have them as ([[jisho:に][に]] [[jisho:した][した]]) pets ([[jisho:ペット][ペット]]) and
+some use them ([[jisho:つかったり][つかったり]]) for ([[jisho:に][に]]) matches ([[jisho:しょうぶ][しょうぶ]]).
+
+This uses [[http://www.punipunijapan.com/japanese-grammar-tari-tari/][たり-form]] to list out a number of candidate activities. In
+this case, having Pokemon as pets and using Pokemon for matches.
+
+The sentence overall reads like "Some people keep these creatures
+known as Pokemon as pets, and others use them for battles."
+
+#+BEGIN_QUOTE
+そして。。。
+#+END_QUOTE
+"[[http://thejapanesepage.com/grammar/chapter_one/and_to_soshite][and]]..."
+
+#+BEGIN_QUOTE
+わたしは この ポケモンの
+けんきゅうを してる というわけだ
+#+END_QUOTE
+The research ([[jisho:けんきゅう][けんきゅう]]) of these ([[jisho:この][この]] ... [[jisho:の][の]]) Pokemon ([[jisho:ポケモン][ポケモン]]) is
+my ([[jisho:わたし][わたし]] [[jisho:は][は]]) reason ([[https://www.renshuu.org/grammar/489/%E3%82%8F%E3%81%91%E3%81%A0][という わけ だ]]).
+
+#+BEGIN_QUOTE
+では はじめに きもの なまえを
+おしえて もらおう！
+#+END_QUOTE
+So ([[jisho:では][では]]) to start ([[jisho:はじめに][はじめに]]) give me ([[jisho:もらおう][もらおう]]) teaching ([[jisho:おしえて][おしえて]])
+of your ([[jisho:きみ][きみ]] [[jisho:の][の]]) name ([[jisho:なまえ][なまえ]])!
+
+In Japanese, when requesting something, you sometimes ask people to
+give you actions, and you sometimes give out actions to other
+people. In this case, Okkido is asking you to give him the action of
+you teaching him your name.
+
+The おしえて is the て-form of [[jisho:おしえる][おしえる]], so it is kinda like an order
+in a way.
+
+The names we can choose from are:
+#+BEGIN_QUOTE
+じぶんできめる
+グリーン
+シゲル
+ジョン
+#+END_QUOTE
+
+Those are Green ([[jisho:グリーン][グリーン]]), Shigeru ([[jisho:シゲル][シゲル]]), Jon ([[jisho:ジョン][ジョン]]), and by my
+([[jisho:じぶん][じぶん]] [[jisho:で][で]]) decision ([[jisho:きめる][きめる]]).
+
+Of course, with so much name confusion, who wouldn't want to play as
+Green?
+
+#+BEGIN_QUOTE
+ふむ。。。
+クリーン と いうんだな！
+#+END_QUOTE
+I see... ([[jisho:ふむ][ふむ]])
+"Green" ([[jisho:グリーン][グリーン]] [[jisho:と][と]]) is what you are named ([[jisho:いう][いう]] [[jisho:んだ][んだ]]) huh? ([[jisho:な][な]])
+
+Once again, the と here is a quote. The (いうんだ) is adding
+information to the current context ([[http://japanese.stackexchange.com/a/5399/10600][んだ]]) using what you called
+yourself. (グリーン と いう)
+
+#+BEGIN_QUOTE
+こいつは わたしの まご
+きみの おさななじみであり
+ライバル である
+#+END_QUOTE
+This guy ([[jisho:こいつ][こいつ]]) is ([[jisho:は][は]]) my ([[jisho:わたし][わたし]] [[jisho:の][の]]) grandchild ([[jisho:まご][まご]])
+He exists ([[jisho:あり][あり]]) as ([[jisho:で][で]]) your ([[jisho:きみ][きみ]] [[jisho:の][の]]) childhood friend ([[jisho:おさななじみ][おさななじみ]])
+He exists ([[jisho:ある][ある]]) as ([[jisho:で][で]]) a rival ([[jisho:ライバル][ライバル]])
+
+Lots of "exists" here. The difference between ある and あり is that
+
+あり is stem-form, which allows you to chain other statements after
+it, so basically this can be parsed as two sentences, with the second
+containing two statements separated by "and":
+
+#+BEGIN_EXAMPLE
+  This guy is my grandchild.
+  He is your childhood friend
+  and rival
+#+END_EXAMPLE
+
+#+BEGIN_QUOTE
+。。。えーと？
+なまえは なんて いったかな？
+#+END_QUOTE
+...uhh? ([[jisho:えーと][えーと]])
+What ([[jisho:なんて][なんて]]) was ([[jisho:いった][いった]]) the name ([[jisho:なまえ][なまえ]])?([[jisho:か][か]] [[jisho:な][な]]？)
+
+Classic Professor dementia.
+
+The name here is of course, from context of the previous sentences. He
+is asking about the name of his grandson. なんて is like saying "what"
+with a small touch of "Oh dear" in it. いった is the past-tense of
+"to name" , which is why I put it next to "was".
+
+The names are:
+#+BEGIN_QUOTE
+じぶんできめる
+レード
+サトシ
+ジャック
+#+END_QUOTE
+So once again we have "Decide ([[jisho:きめる][きめる]]) by ([[jisho:で][で]]) myself ([[jisho:じぶん][じぶん]])" and
+three other names: Red ([[jisho:レード][レード]]), Satoshi ([[jisho:サトシ][サトシ]]), and Jack ([[jisho:ジャック][ジャック]]).
+
+The rival from the original games was definitely Red. (Smell ya
+later!)
+
+#+BEGIN_QUOTE
+そうだ そうだ！ おもいだしたぞ
+レッド という なまえだ
+#+END_QUOTE
+Right ([[jisho:そうだ][そうだ]]) right ([[jisho:そうだ][そうだ]])! I remembered ([[jisho:おもいだした][おもいだした]])!
+The name ([[jisho:なまえ][なまえ]]) is known as ([[jisho:という][という]]) Red ([[jisho:レード][レード]])
+
+The ぞ is a masculine sentence end that makes an assertion, and おもいだした
+is the past-tense form of [[jisho:おもいだす][おもいだす]].
+
+The crazy sentence reordering here is because という is a way of
+saying something is known as something else. For example
+"ポケモン という ケーム" which is "Pokemon という game", or "The game
+known as Pokemon".
+
+#+BEGIN_QUOTE
+グリーン！
+#+END_QUOTE
+"Green!"
+
+#+BEGIN_QUOTE
+いよいよ これから
+きみの ものがたりの はじまりだ！
+#+END_QUOTE
+Finally ([[jisho:いよいよ][いよいよ]]) from now on ([[jisho:これから][これから]])
+This is ([[jisho:だ][だ]]) your ([[jisho:きみ][きみ]] [[jisho:の][の]]) tale ([[jisho:ものがたり][ものがたり]]) beginning ([[jisho:はじまりだ][はじまり]])!
+
+#+BEGIN_QUOTE
+ゆめと ぼうけんと！
+ポケット モンスターの せかいへ！
+#+END_QUOTE
+Dreams ([[jisho:ゆめ][ゆめ]]) and adventures ([[jisho:ぼうけん][ぼうけん]])!
+Go to ([[jisho:へ][へ]]) the World ([[jisho:せかい][せかい]]) of ([[jisho:の][の]]) Pocket Monsters ([[jisho:ポケット モンスター][ポケット モンスター]])!
+
+The [[https://www.renshuu.org/grammar/110/%E3%81%A8][と]] here is an exhaustive list. This means that you can't add
+things to it like with [[https://www.renshuu.org/grammar/469/%E3%82%84][や]]. The [[https://www.renshuu.org/grammar/468/%E3%81%B8][へ]] at the end means "Go to" basically.
+
+#+BEGIN_QUOTE
+レード ゴー！
+#+END_QUOTE
+"Red go!"
+
+* The in-game menu
+The in-game menu has a few entries
+#+BEGIN_QUOTE
+ポケモン
+どうぐ
+グリーン
+レポート
+せってい
+とじる
+#+END_QUOTE
+
+And they mean:
+ - Pokemon ([[jisho:ポケモン][ポケモン]])
+ - Tool ([[jisho:どうぐ][どうぐ]])
+ - Green ([[jisho:グリーン][グリーン]])
+ - Report ([[jisho:レポート][レポート]])
+ - Settings ([[jisho:せってい][せってい]])
+ - Close ([[jisho:とじる][とじる]])
+
+The only non-obvious one in here is "Report", which basically means
+save.
+
+** Save
+The save screen shows text in about two trillion different windows:
+
+Details:
+#+BEGIN_QUOTE
+しゅじんんこう   グリーン
+もってるバッジ ０ こ
+ポケモンずかん ０ひき
+プレイじかん  ０：２２
+#+END_QUOTE
+Which would be:
+
+#+BEGIN_QUOTE
+Protagonist ([[jisho:しゅじんんこう][しゅじんんこう]])   Green ([[jisho:グリーン][グリーン]])
+Held ([[jisho:もってる][もってる]]) Badges ([[jisho:バッジ][バッジ]]) ０ Articles ([[jisho:こ][こ]])
+Pokemon ([[jisho:ポケモン][ポケモン]]) Field guide ([[jisho:ずかん][ずかん]]) ０ Creatures ([[jisho:ひき][ひき]])
+Play ([[jisho:プレイ][プレイ]]) time ([[jisho:じかん][じかん]])  ０：２２
+#+END_QUOTE
+
+(Yes I did spend 22 minutes saving)
+
+Question:
+#+BEGIN_QUOTE
+ここまでの かつやくを
+ポケモンレポートに かきこみますか？
+#+END_QUOTE
+Will you save ([[jisho:かきこみます][かきこみます]] [[jisho:か][か]]) in ([[jisho:に][に]]) the Pokemon Report
+([[jisho:ポケモンレポート][ポケモンレポート]]) activities ([[jisho:かつやく][かつやく]]) up until now ([[jisho:ここまで][ここまで]])?
+
+Response:
+#+BEGIN_QUOTE
+はい
+いいえ
+#+END_QUOTE
+Yes ([[jisho:はい][はい]]) and no ([[jisho:いいえ][いいえ]])
