@@ -33,6 +33,12 @@ This means 「Start ([はじめる](http://jisho.org/search?utf8=%E2%9C%93&keywo
 
 This means 「Change ([かえる](http://jisho.org/search?utf8=%E2%9C%93&keyword=かえる)) settings ([せってい](http://jisho.org/search?utf8=%E2%9C%93&keyword=せってい))」
 
+After saving, a third option appears at the top:
+
+    つづきからはじめる
+
+「Start ([はじめる](http://jisho.org/search?utf8=%E2%9C%93&keyword=はじめる)) from ([から](http://jisho.org/search?utf8=%E2%9C%93&keyword=から)) last ([つづき](http://jisho.org/search?utf8=%E2%9C%93&keyword=つづき))」
+
 ## Settings
 
     はなしの はやさ
@@ -317,3 +323,88 @@ Response:
     いいえ
 
 Yes ([はい](http://jisho.org/search?utf8=%E2%9C%93&keyword=はい)) and no ([いいえ](http://jisho.org/search?utf8=%E2%9C%93&keyword=いいえ))
+
+# Your house!
+
+You find yourself in your room at the beginning of the game playing
+video games. Woah, meta already.
+
+If you interact with it, you see the following:
+
+    グリーンは
+    ファミコンを してる！
+
+Green ([グリーン](http://jisho.org/search?utf8=%E2%9C%93&keyword=グリーン)) is ([は](http://jisho.org/search?utf8=%E2%9C%93&keyword=は)) playing ([を](http://jisho.org/search?utf8=%E2%9C%93&keyword=を) [してる](http://jisho.org/search?utf8=%E2%9C%93&keyword=してる)) the Famicon! ([ファミコン](http://jisho.org/search?utf8=%E2%9C%93&keyword=ファミコン))
+
+    …… …… よし！
+
+&#x2026;&#x2026; &#x2026;&#x2026; alright! ([よし](http://jisho.org/search?utf8=%E2%9C%93&keyword=よし))
+
+    そろそろ でかけよう！
+
+Lets go ([でかけよう](http://jisho.org/search?utf8=%E2%9C%93&keyword=でかけよう)) soon! ([そろそろ](http://jisho.org/search?utf8=%E2%9C%93&keyword=そろそろ))
+
+The でかけよう is でかける in what's called "[Volitional form](http://www.guidetojapanese.org/desire.html#part4)", which
+is a way to specify desire to do something. So the player is basically
+saying "Alright! Lets go!".
+
+When you walk downstairs there is a room with a TV which, when
+interacted with shows:
+
+    みえない……
+
+Can't see. ([みえない](http://jisho.org/search?utf8=%E2%9C%93&keyword=みえない))
+
+&#x2026;oh, ha! That's because I looked at the side of the TV. Trying to
+watch it like a normal to-be Pokemon trainer shows:
+
+    テレビで えいがを やってる！
+    おとこのこが ４にん
+    せんろのうえを ありてる……
+
+On the ([で](http://jisho.org/search?utf8=%E2%9C%93&keyword=で)) TV ([テレビ](http://jisho.org/search?utf8=%E2%9C%93&keyword=テレビ)) a movie ([えいが](http://jisho.org/search?utf8=%E2%9C%93&keyword=えいが)) is ([を](http://jisho.org/search?utf8=%E2%9C%93&keyword=を)) playing! ([やってる](http://jisho.org/search?utf8=%E2%9C%93&keyword=やってる))
+Four boys ([おとこのこ](http://jisho.org/search?utf8=%E2%9C%93&keyword=おとこのこ) [が](http://jisho.org/search?utf8=%E2%9C%93&keyword=が) ４[にん](http://jisho.org/search?utf8=%E2%9C%93&keyword=にん)) are ([を](http://jisho.org/search?utf8=%E2%9C%93&keyword=を) [ありてる](http://jisho.org/search?utf8=%E2%9C%93&keyword=ありてる)) on top ([の](http://jisho.org/search?utf8=%E2%9C%93&keyword=の) [うえ](http://jisho.org/search?utf8=%E2%9C%93&keyword=うえ)) of
+train tracks ([せんろ](http://jisho.org/search?utf8=%E2%9C%93&keyword=せんろ))&#x2026;&#x2026;
+
+    …… ぼくも もう いかなきゃ！
+
+I ([ぼく](http://jisho.org/search?utf8=%E2%9C%93&keyword=ぼく)) also ([も](http://jisho.org/search?utf8=%E2%9C%93&keyword=も)) have to go! ([いかなきゃ](http://jisho.org/search?utf8=%E2%9C%93&keyword=いかなきゃ))
+
+The いかなきゃ here is basically a way of saying "Gotta go!". Adding
+[きゃ](http://www.guidetojapanese.org/completeguide.html#part4.haveto.html) to the stem of negative form verb is basically saying you must do
+that thing.
+
+Also in the room there is a bookshelf that when interacted with shows:
+
+    ポケモンの ほんが いっぱい！
+
+It is full ([いっぱい](http://jisho.org/search?utf8=%E2%9C%93&keyword=いっぱい)) of ([が](http://jisho.org/search?utf8=%E2%9C%93&keyword=が)) Pokemon books! ([ポケモン](http://jisho.org/search?utf8=%E2%9C%93&keyword=ポケモン) [の](http://jisho.org/search?utf8=%E2%9C%93&keyword=の) [ほん](http://jisho.org/search?utf8=%E2%9C%93&keyword=ほん))
+
+And finally, of course, is your mother, who says:
+
+    おかあさん『…… そうね
+    おとこのこは いっか
+    たびに でるもの なのよ
+    うん…… テレビの はなしよ！
+
+Mother: ([おかあさん](http://jisho.org/search?utf8=%E2%9C%93&keyword=おかあさん)) &#x2026;&#x2026; Ah ([そうね](http://jisho.org/search?utf8=%E2%9C%93&keyword=そうね))
+Boys ([おとこのこ](http://jisho.org/search?utf8=%E2%9C%93&keyword=おとこのこ)) leave ([でる](http://jisho.org/search?utf8=%E2%9C%93&keyword=でる)) for ([に](http://jisho.org/search?utf8=%E2%9C%93&keyword=に)) trips ([たび](http://jisho.org/search?utf8=%E2%9C%93&keyword=たび)) from home ([いっか](http://jisho.org/search?utf8=%E2%9C%93&keyword=いっか))
+huh? ([なの](http://jisho.org/search?utf8=%E2%9C%93&keyword=なの)) Yeah ([うん](http://jisho.org/search?utf8=%E2%9C%93&keyword=うん))&#x2026;&#x2026; The TV ([テレビ](http://jisho.org/search?utf8=%E2%9C%93&keyword=テレビ)) talked about it ([の](http://jisho.org/search?utf8=%E2%9C%93&keyword=の) [はなし](http://jisho.org/search?utf8=%E2%9C%93&keyword=はなし))!
+
+Also, this bothers me, why is there no closing 』? Will this be the
+standard way to quote characters? Maybe something in the next part?
+
+    そういえば
+    となりの オーキドはかせが
+    あなたを よんでたわよ
+
+Which reminds me ([そういえば](http://jisho.org/search?utf8=%E2%9C%93&keyword=そういえば))
+The neighbor ([となり](http://jisho.org/search?utf8=%E2%9C%93&keyword=となり)) Dr. Okkido ([の](http://jisho.org/search?utf8=%E2%9C%93&keyword=の) [オーキド](http://jisho.org/search?utf8=%E2%9C%93&keyword=オーキド) [はかせ](http://jisho.org/search?utf8=%E2%9C%93&keyword=はかせ))
+has invited ([よんでた](http://jisho.org/search?utf8=%E2%9C%93&keyword=よんでた)) you ([あなた](http://jisho.org/search?utf8=%E2%9C%93&keyword=あなた))!([わよ](http://jisho.org/search?utf8=%E2%9C%93&keyword=わよ))
+
+Nope, no closing 』.
+
+Also, because it collides with [よむ](http://jisho.org/search?utf8=%E2%9C%93&keyword=よむ), I should note that よんでた is
+the past-て form [よぶ](http://jisho.org/search?utf8=%E2%9C%93&keyword=よぶ).
+
+And with that, we can get moving into the rest of the town!

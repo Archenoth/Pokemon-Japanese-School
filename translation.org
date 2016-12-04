@@ -58,6 +58,12 @@ This means 「Start ([[jisho:はじめる][はじめる]]) from ([[jisho:から]
 #+END_EXAMPLE
 This means 「Change ([[jisho:かえる][かえる]]) settings ([[jisho:せってい][せってい]])」
 
+After saving, a third option appears at the top:
+#+BEGIN_EXAMPLE
+つづきからはじめる
+#+END_EXAMPLE
+「Start ([[jisho:はじめる][はじめる]]) from ([[jisho:から][から]]) last ([[jisho:つづき][つづき]])」
+
 ** Settings
 #+BEGIN_EXAMPLE
 はなしの はやさ
@@ -362,3 +368,94 @@ Response:
 いいえ
 #+END_EXAMPLE
 Yes ([[jisho:はい][はい]]) and no ([[jisho:いいえ][いいえ]])
+
+* Your house!
+You find yourself in your room at the beginning of the game playing
+video games. Woah, meta already.
+
+If you interact with it, you see the following:
+#+BEGIN_EXAMPLE
+グリーンは
+ファミコンを してる！
+#+END_EXAMPLE
+Green ([[jisho:グリーン][グリーン]]) is ([[jisho:は][は]]) playing ([[jisho:を][を]] [[jisho:してる][してる]]) the Famicon! ([[jisho:ファミコン][ファミコン]])
+
+#+BEGIN_EXAMPLE
+…… …… よし！
+#+END_EXAMPLE
+...... ...... alright! ([[jisho:よし][よし]])
+
+#+BEGIN_EXAMPLE
+そろそろ でかけよう！
+#+END_EXAMPLE
+Lets go ([[jisho:でかけよう][でかけよう]]) soon! ([[jisho:そろそろ][そろそろ]])
+
+The でかけよう is でかける in what's called "[[http://www.guidetojapanese.org/desire.html#part4][Volitional form]]", which
+is a way to specify desire to do something. So the player is basically
+saying "Alright! Lets go!".
+
+When you walk downstairs there is a room with a TV which, when
+interacted with shows:
+
+#+BEGIN_EXAMPLE
+みえない……
+#+END_EXAMPLE
+Can't see. ([[jisho:みえない][みえない]])
+
+...oh, ha! That's because I looked at the side of the TV. Trying to
+watch it like a normal to-be Pokemon trainer shows:
+
+#+BEGIN_EXAMPLE
+テレビで えいがを やってる！
+おとこのこが ４にん
+せんろのうえを ありてる……
+#+END_EXAMPLE
+On the ([[jisho:で][で]]) TV ([[jisho:テレビ][テレビ]]) a movie ([[jisho:えいが][えいが]]) is ([[jisho:を][を]]) playing! ([[jisho:やってる][やってる]])
+Four boys ([[jisho:おとこのこ][おとこのこ]] [[jisho:が][が]] ４[[jisho:にん][にん]]) are ([[jisho:を][を]] [[jisho:ありてる][ありてる]]) on top ([[jisho:の][の]] [[jisho:うえ][うえ]]) of
+train tracks ([[jisho:せんろ][せんろ]])......
+
+#+BEGIN_EXAMPLE
+…… ぼくも もう いかなきゃ！
+#+END_EXAMPLE
+I ([[jisho:ぼく][ぼく]]) also ([[jisho:も][も]]) have to go! ([[jisho:いかなきゃ][いかなきゃ]])
+
+The いかなきゃ here is basically a way of saying "Gotta go!". Adding
+[[http://www.guidetojapanese.org/completeguide.html#part4.haveto.html][きゃ]] to the stem of negative form verb is basically saying you must do
+that thing.
+
+Also in the room there is a bookshelf that when interacted with shows:
+
+#+BEGIN_EXAMPLE
+ポケモンの ほんが いっぱい！
+#+END_EXAMPLE
+It is full ([[jisho:いっぱい][いっぱい]]) of ([[jisho:が][が]]) Pokemon books! ([[jisho:ポケモン][ポケモン]] [[jisho:の][の]] [[jisho:ほん][ほん]])
+
+And finally, of course, is your mother, who says:
+#+BEGIN_EXAMPLE
+おかあさん『…… そうね
+おとこのこは いっか
+たびに でるもの なのよ
+うん…… テレビの はなしよ！
+#+END_EXAMPLE
+Mother: ([[jisho:おかあさん][おかあさん]]) ...... Ah ([[jisho:そうね][そうね]])
+Boys ([[jisho:おとこのこ][おとこのこ]]) leave ([[jisho:でる][でる]]) for ([[jisho:に][に]]) trips ([[jisho:たび][たび]]) from home ([[jisho:いっか][いっか]])
+huh? ([[jisho:なの][なの]]) Yeah ([[jisho:うん][うん]])...... The TV ([[jisho:テレビ][テレビ]]) talked about it ([[jisho:の][の]] [[jisho:はなし][はなし]])!
+
+Also, this bothers me, why is there no closing 』? Will this be the
+standard way to quote characters? Maybe something in the next part?
+
+#+BEGIN_EXAMPLE
+そういえば
+となりの オーキドはかせが
+あなたを よんでたわよ
+#+END_EXAMPLE
+Which reminds me ([[jisho:そういえば][そういえば]])
+The neighbor ([[jisho:となり][となり]]) Dr. Okkido ([[jisho:の][の]] [[jisho:オーキド][オーキド]] [[jisho:はかせ][はかせ]])
+has invited ([[jisho:よんでた][よんでた]]) you ([[jisho:あなた][あなた]])!([[jisho:わよ][わよ]])
+
+Nope, no closing 』.
+
+Also, because it collides with [[jisho:よむ][よむ]], I should note that よんでた is
+the past-て form [[jisho:よぶ][よぶ]].
+
+And with that, we can get moving into the rest of the town!
