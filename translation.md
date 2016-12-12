@@ -408,3 +408,88 @@ Also, because it collides with [よむ](http://jisho.org/search?utf8=%E2%9C%93&k
 the past-て form [よぶ](http://jisho.org/search?utf8=%E2%9C%93&keyword=よぶ).
 
 And with that, we can get moving into the rest of the town!
+
+# The town
+
+Ah! Pallet Town. Not a very big place, and you start out at the door
+of your house. There is a sign there that reads:
+
+    ここは グリーン のいえ
+
+Here ([ここ](http://jisho.org/search?utf8=%E2%9C%93&keyword=ここ)) is ([は](http://jisho.org/search?utf8=%E2%9C%93&keyword=は)) Green([グリーン](http://jisho.org/search?utf8=%E2%9C%93&keyword=グリーン))'s([の](http://jisho.org/search?utf8=%E2%9C%93&keyword=の)) house ([いえ](http://jisho.org/search?utf8=%E2%9C%93&keyword=いえ))
+
+There is also a sign just south of your house that reads:
+
+    ここは マサラ タウン
+    マサラは まっしろ はじまりのいろ
+
+Here ([ここ](http://jisho.org/search?utf8=%E2%9C%93&keyword=ここ)) is ([は](http://jisho.org/search?utf8=%E2%9C%93&keyword=は)) Masara ([マサラ](http://jisho.org/search?utf8=%E2%9C%93&keyword=マサラ)) Town ([タウン](http://jisho.org/search?utf8=%E2%9C%93&keyword=タウン))
+Masara ([マサラ](http://jisho.org/search?utf8=%E2%9C%93&keyword=マサラ)) is ([は](http://jisho.org/search?utf8=%E2%9C%93&keyword=は)) the color ([いろ](http://jisho.org/search?utf8=%E2%9C%93&keyword=いろ)) of ([の](http://jisho.org/search?utf8=%E2%9C%93&keyword=の)) a pure white
+([まっしろ](http://jisho.org/search?utf8=%E2%9C%93&keyword=まっしろ)) beginning ([はじまり](http://jisho.org/search?utf8=%E2%9C%93&keyword=はじまり))
+
+A pure white beginning? The entire game is black and white! (Wait,
+does that mean I am I translating Pokemon Black and White in a way?)
+
+Anywho&#x2026;
+
+There is also a girl NPC who wanders around the west part of
+town. When you talk to her, she says:
+
+    わたしも
+    ポケモンを そだててるの！
+    つよく なれば
+    ガードマンの かわりに なるしね
+
+I ([わたし](http://jisho.org/search?utf8=%E2%9C%93&keyword=わたし)) also ([も](http://jisho.org/search?utf8=%E2%9C%93&keyword=も)) am raising ([を](http://jisho.org/search?utf8=%E2%9C%93&keyword=を) [そだててる](http://jisho.org/search?utf8=%E2%9C%93&keyword=そだててる)) Pokemon! ([ポケモン](http://jisho.org/search?utf8=%E2%9C%93&keyword=ポケモン))
+If I become ([なれば](http://jisho.org/search?utf8=%E2%9C%93&keyword=なれば)) strong ([つよく](http://jisho.org/search?utf8=%E2%9C%93&keyword=つよく)) I can become ([なるし](http://jisho.org/search?utf8=%E2%9C%93&keyword=なるし)) a guardman
+([ガードマン](http://jisho.org/search?utf8=%E2%9C%93&keyword=ガードマン)) substitute ([かわり](http://jisho.org/search?utf8=%E2%9C%93&keyword=かわり))
+
+A guardman? Woah. Anyway, there are two tricky things in this
+sentence, one is that the ば in なれば is a conditional [なる](http://jisho.org/search?utf8=%E2%9C%93&keyword=なる). Changing
+the last sound to an え and adding ば is you do [conditional verbs](http://www.learn-japanese-adventure.com/japanese-conditional-form-ba-nara.html). The
+second is the mysterious し near the end, which basically [gives reason](http://selftaughtjapanese.com/2014/05/04/japanese-phrase-ender-%E3%81%97-shi/)
+to the second sentence with the first sentence.
+
+&#x2026;oh, and I guess I should mention that the そだててる is the version
+of [そだてる](http://jisho.org/search?utf8=%E2%9C%93&keyword=そだてる) that means it is currently happening.
+
+After talking to the guardman-to-be, we can talk to the dude walking
+around the southeast part of town, he says:
+
+    かがくの ちからって すげー！
+    いまは パソコンつうしんで
+    どうぐや ポケモンを
+    データにして おくれるんだと
+
+The power ([ちから](http://jisho.org/search?utf8=%E2%9C%93&keyword=ちから)) of ([の](http://jisho.org/search?utf8=%E2%9C%93&keyword=の)) science ([かがく](http://jisho.org/search?utf8=%E2%9C%93&keyword=かがく)) is incredible! ([すげー](http://jisho.org/search?utf8=%E2%9C%93&keyword=すげー))
+The case is, ([んだ](http://jisho.org/search?utf8=%E2%9C%93&keyword=んだ)) now ([いま](http://jisho.org/search?utf8=%E2%9C%93&keyword=いま)) with ([で](http://jisho.org/search?utf8=%E2%9C%93&keyword=で)) computer ([パソコン](http://jisho.org/search?utf8=%E2%9C%93&keyword=パソコン))
+communications ([つうしん](http://jisho.org/search?utf8=%E2%9C%93&keyword=つうしん)), tools ([どうぐ](http://jisho.org/search?utf8=%E2%9C%93&keyword=どうぐ)) and ([や](http://jisho.org/search?utf8=%E2%9C%93&keyword=や)) Pokemon ([ポケモン](http://jisho.org/search?utf8=%E2%9C%93&keyword=ポケモン))
+can be sent ([おくれる](http://jisho.org/search?utf8=%E2%9C%93&keyword=おくれる)).
+
+The first bit is emphasized by the certainty of [って](http://jisho.org/search?utf8=%E2%9C%93&keyword=って) at the end of the
+word [ちから](http://jisho.org/search?utf8=%E2%9C%93&keyword=ちから). And the おくれる is the potential form of [おくる](http://jisho.org/search?utf8=%E2%9C%93&keyword=おくる). (Which
+is where "can" comes from.)
+
+The と at the end adds a bit of [emphasis and emotion](http://www.guidetojapanese.org/forum/viewtopic.php?id=7317#p63118) to the sentence.
+
+And finally, the sign in front of the large building to the north of
+techno-dude says:
+
+    ここは オーキド はかせの
+    ポケモン けんんきゅうじょ
+
+Here ([ここ](http://jisho.org/search?utf8=%E2%9C%93&keyword=ここ)) is ([は](http://jisho.org/search?utf8=%E2%9C%93&keyword=は)) Dr. Okkido([オーキド](http://jisho.org/search?utf8=%E2%9C%93&keyword=オーキド) [はかせ](http://jisho.org/search?utf8=%E2%9C%93&keyword=はかせ))'s([の](http://jisho.org/search?utf8=%E2%9C%93&keyword=の))
+Pokemon ([ポケモン](http://jisho.org/search?utf8=%E2%9C%93&keyword=ポケモン)) laboratory ([けんんきゅうじょ](http://jisho.org/search?utf8=%E2%9C%93&keyword=けんんきゅうじょ))
+
+Hm, this is where we should go&#x2026; But there is still one more house,
+the one east of ours.
+
+There is a sign there that says:
+
+    ここは レッド のいえ
+
+Here ([ここ](http://jisho.org/search?utf8=%E2%9C%93&keyword=ここ)) is ([は](http://jisho.org/search?utf8=%E2%9C%93&keyword=は)) Red([レッド](http://jisho.org/search?utf8=%E2%9C%93&keyword=レッド))'s([の](http://jisho.org/search?utf8=%E2%9C%93&keyword=の)) house ([いえ](http://jisho.org/search?utf8=%E2%9C%93&keyword=いえ))
+
+Uh oh, the competition. Let's go in!
+
+I'm sure Okkido can wait.

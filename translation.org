@@ -459,3 +459,87 @@ Also, because it collides with [[jisho:よむ][よむ]], I should note that よ�
 the past-て form [[jisho:よぶ][よぶ]].
 
 And with that, we can get moving into the rest of the town!
+
+* The town
+Ah! Pallet Town. Not a very big place, and you start out at the door
+of your house. There is a sign there that reads:
+#+BEGIN_EXAMPLE
+ここは グリーン のいえ
+#+END_EXAMPLE
+Here ([[jisho:ここ][ここ]]) is ([[jisho:は][は]]) Green([[jisho:グリーン][グリーン]])'s([[jisho:の][の]]) house ([[jisho:いえ][いえ]])
+
+There is also a sign just south of your house that reads:
+#+BEGIN_EXAMPLE
+ここは マサラ タウン
+マサラは まっしろ はじまりのいろ
+#+END_EXAMPLE
+Here ([[jisho:ここ][ここ]]) is ([[jisho:は][は]]) Masara ([[jisho:マサラ][マサラ]]) Town ([[jisho:タウン][タウン]])
+Masara ([[jisho:マサラ][マサラ]]) is ([[jisho:は][は]]) the color ([[jisho:いろ][いろ]]) of ([[jisho:の][の]]) a pure white
+([[jisho:まっしろ][まっしろ]]) beginning ([[jisho:はじまり][はじまり]])
+
+A pure white beginning? The entire game is black and white! (Wait,
+does that mean I am I translating Pokemon Black and White in a way?)
+
+Anywho...
+
+There is also a girl NPC who wanders around the west part of
+town. When you talk to her, she says:
+#+BEGIN_EXAMPLE
+わたしも
+ポケモンを そだててるの！
+つよく なれば
+ガードマンの かわりに なるしね
+#+END_EXAMPLE
+I ([[jisho:わたし][わたし]]) also ([[jisho:も][も]]) am raising ([[jisho:を][を]] [[jisho:そだててる][そだててる]]) Pokemon! ([[jisho:ポケモン][ポケモン]])
+If I become ([[jisho:なれば][なれば]]) strong ([[jisho:つよく][つよく]]) I can become ([[jisho:なるし][なるし]]) a guardman
+([[jisho:ガードマン][ガードマン]]) substitute ([[jisho:かわり][かわり]])
+
+A guardman? Woah. Anyway, there are two tricky things in this
+sentence, one is that the ば in なれば is a conditional [[jisho:なる][なる]]. Changing
+the last sound to an え and adding ば is you do [[http://www.learn-japanese-adventure.com/japanese-conditional-form-ba-nara.html][conditional verbs]]. The
+second is the mysterious し near the end, which basically [[http://selftaughtjapanese.com/2014/05/04/japanese-phrase-ender-%E3%81%97-shi/][gives reason]]
+to the second sentence with the first sentence.
+
+...oh, and I guess I should mention that the そだててる is the version
+of [[jisho:そだてる][そだてる]] that means it is currently happening.
+
+After talking to the guardman-to-be, we can talk to the dude walking
+around the southeast part of town, he says:
+#+BEGIN_EXAMPLE
+かがくの ちからって すげー！
+いまは パソコンつうしんで
+どうぐや ポケモンを
+データにして おくれるんだと
+#+END_EXAMPLE
+The power ([[jisho:ちから][ちから]]) of ([[jisho:の][の]]) science ([[jisho:かがく][かがく]]) is incredible! ([[jisho:すげー][すげー]])
+The case is, ([[jisho:んだ][んだ]]) now ([[jisho:いま][いま]]) with ([[jisho:で][で]]) computer ([[jisho:パソコン][パソコン]])
+communications ([[jisho:つうしん][つうしん]]), tools ([[jisho:どうぐ][どうぐ]]) and ([[jisho:や][や]]) Pokemon ([[jisho:ポケモン][ポケモン]])
+can be sent ([[jisho:おくれる][おくれる]]).
+
+The first bit is emphasized by the certainty of [[jisho:って][って]] at the end of the
+word [[jisho:ちから][ちから]]. And the おくれる is the potential form of [[jisho:おくる][おくる]]. (Which
+is where "can" comes from.)
+
+The と at the end adds a bit of [[http://www.guidetojapanese.org/forum/viewtopic.php?id=7317#p63118][emphasis and emotion]] to the sentence.
+
+And finally, the sign in front of the large building to the north of
+techno-dude says:
+#+BEGIN_EXAMPLE
+ここは オーキド はかせの
+ポケモン けんんきゅうじょ
+#+END_EXAMPLE
+Here ([[jisho:ここ][ここ]]) is ([[jisho:は][は]]) Dr. Okkido([[jisho:オーキド][オーキド]] [[jisho:はかせ][はかせ]])'s([[jisho:の][の]])
+Pokemon ([[jisho:ポケモン][ポケモン]]) laboratory ([[jisho:けんんきゅうじょ][けんんきゅうじょ]])
+
+Hm, this is where we should go... But there is still one more house,
+the one east of ours.
+
+There is a sign there that says:
+#+BEGIN_EXAMPLE
+ここは レッド のいえ
+#+END_EXAMPLE
+Here ([[jisho:ここ][ここ]]) is ([[jisho:は][は]]) Red([[jisho:レッド][レッド]])'s([[jisho:の][の]]) house ([[jisho:いえ][いえ]])
+
+Uh oh, the competition. Let's go in!
+
+I'm sure Okkido can wait.
