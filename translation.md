@@ -504,3 +504,49 @@ Here ([ここ](http://jisho.org/search?utf8=%E2%9C%93&keyword=ここ)) is ([は]
 Uh oh, the competition. Let's go in!
 
 I'm sure Okkido can wait.
+
+
+# Red's house
+
+In Red's house, there is only one floor (Where do they sleep?) and
+Red's sister. When you talk to her she says:
+
+    こんにちは グリーンくん！
+    おとうとの レッドなら
+    おじいちゃんの けんきゅうじょよ
+
+Hello ([こんにちは](http://jisho.org/search?utf8=%E2%9C%93&keyword=こんにちは)) Green! ([ぐりーん](http://jisho.org/search?utf8=%E2%9C%93&keyword=ぐりーん))
+As for ([なら](http://jisho.org/search?utf8=%E2%9C%93&keyword=なら)) my younger brother, ([おとうと](http://jisho.org/search?utf8=%E2%9C%93&keyword=おとうと)) Red ([レッド](http://jisho.org/search?utf8=%E2%9C%93&keyword=レッド)) *he is at*
+my grandpa ([おじいちゃん](http://jisho.org/search?utf8=%E2%9C%93&keyword=おじいちゃん))'s([の](http://jisho.org/search?utf8=%E2%9C%93&keyword=の)) laboratory ([けんきゅうじょ](http://jisho.org/search?utf8=%E2%9C%93&keyword=けんきゅうじょ)), hey? ([よ](http://jisho.org/search?utf8=%E2%9C%93&keyword=よ))
+
+[なら](http://jisho.org/search?utf8=%E2%9C%93&keyword=なら) is kinda like an if statement, so more literally it is like
+saying "If it is Red, my grandpa's laboratory".
+
+In front of her is a book that says:
+
+    カントー ちほうの ちずだ！
+    …… もらえたら うれしい？
+
+A Kanto ([カントー](http://jisho.org/search?utf8=%E2%9C%93&keyword=カントー)) Region ([ちほう](http://jisho.org/search?utf8=%E2%9C%93&keyword=ちほう)) map! ([ちず](http://jisho.org/search?utf8=%E2%9C%93&keyword=ちず))
+&#x2026;&#x2026;Would I be happy ([うれしい](http://jisho.org/search?utf8=%E2%9C%93&keyword=うれしい)) if ([たら](http://jisho.org/search?utf8=%E2%9C%93&keyword=たら)) I got ([もらう](http://jisho.org/search?utf8=%E2%9C%93&keyword=もらう)) *one*?
+
+There are also a number of bookcases in the room, which when
+interacted with say:
+
+    ほんだなに ならんでいるのは
+    ポケモンの ほん ばかりだ
+
+Standing in a line ([ならんでいる](http://jisho.org/search?utf8=%E2%9C%93&keyword=ならんでいる)) in ([に](http://jisho.org/search?utf8=%E2%9C%93&keyword=に)) the bookshelf ([ほんだな](http://jisho.org/search?utf8=%E2%9C%93&keyword=ほんだな)),
+([のは](http://jisho.org/search?utf8=%E2%9C%93&keyword=のは)) nothing ([ばかり](http://jisho.org/search?utf8=%E2%9C%93&keyword=ばかり)) but Pokemon ([ポケモン](http://jisho.org/search?utf8=%E2%9C%93&keyword=ポケモン)) books. ([の](http://jisho.org/search?utf8=%E2%9C%93&keyword=の) [ほん](http://jisho.org/search?utf8=%E2%9C%93&keyword=ほん))
+
+The ならんでいる is a progressive [ならぶ](http://jisho.org/search?utf8=%E2%9C%93&keyword=ならぶ).
+
+There is also a map on the wall that shows the text:
+
+    タウンマップだ！
+
+Town ([タウン](http://jisho.org/search?utf8=%E2%9C%93&keyword=タウン)) Map! ([マップ](http://jisho.org/search?utf8=%E2%9C%93&keyword=マップ))
+
+&#x2026;and that's it.
+
+Alright, time to go to the lab!

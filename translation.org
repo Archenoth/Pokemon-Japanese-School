@@ -546,3 +546,48 @@ Here ([[jisho:ここ][ここ]]) is ([[jisho:は][は]]) Red([[jisho:レッド][�
 Uh oh, the competition. Let's go in!
 
 I'm sure Okkido can wait.
+
+* Red's house
+In Red's house, there is only one floor (Where do they sleep?) and
+Red's sister. When you talk to her she says:
+
+#+BEGIN_EXAMPLE
+こんにちは グリーンくん！
+おとうとの レッドなら
+おじいちゃんの けんきゅうじょよ
+#+END_EXAMPLE
+Hello ([[jisho:こんにちは][こんにちは]]) Green! ([[jisho:ぐりーん][ぐりーん]])
+As for ([[jisho:なら][なら]]) my younger brother, ([[jisho:おとうと][おとうと]]) Red ([[jisho:レッド][レッド]]) /he is at/
+my grandpa ([[jisho:おじいちゃん][おじいちゃん]])'s([[jisho:の][の]]) laboratory ([[jisho:けんきゅうじょ][けんきゅうじょ]]), hey? ([[jisho:よ][よ]])
+
+[[jisho:なら][なら]] is kinda like an if statement, so more literally it is like
+saying "If it is Red, my grandpa's laboratory".
+
+In front of her is a book that says:
+#+BEGIN_EXAMPLE
+カントー ちほうの ちずだ！
+…… もらえたら うれしい？
+#+END_EXAMPLE
+A Kanto ([[jisho:カントー][カントー]]) Region ([[jisho:ちほう][ちほう]]) map! ([[jisho:ちず][ちず]])
+......Would I be happy ([[jisho:うれしい][うれしい]]) if ([[jisho:たら][たら]]) I got ([[jisho:もらう][もらう]]) /one/?
+
+There are also a number of bookcases in the room, which when
+interacted with say:
+#+BEGIN_EXAMPLE
+ほんだなに ならんでいるのは
+ポケモンの ほん ばかりだ
+#+END_EXAMPLE
+Standing in a line ([[jisho:ならんでいる][ならんでいる]]) in ([[jisho:に][に]]) the bookshelf ([[jisho:ほんだな][ほんだな]]),
+([[jisho:のは][のは]]) nothing ([[jisho:ばかり][ばかり]]) but Pokemon ([[jisho:ポケモン][ポケモン]]) books. ([[jisho:の][の]] [[jisho:ほん][ほん]])
+
+The ならんでいる is a progressive [[jisho:ならぶ][ならぶ]].
+
+There is also a map on the wall that shows the text:
+#+BEGIN_EXAMPLE
+タウンマップだ！
+#+END_EXAMPLE
+Town ([[jisho:タウン][タウン]]) Map! ([[jisho:マップ][マップ]])
+
+...and that's it.
+
+Alright, time to go to the lab!
