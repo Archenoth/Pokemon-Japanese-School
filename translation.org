@@ -432,13 +432,17 @@ It is full ([[jisho:いっぱい][いっぱい]]) of ([[jisho:が][が]]) Pokemo
 And finally, of course, is your mother, who says:
 #+BEGIN_EXAMPLE
 おかあさん『…… そうね
-おとこのこは いっか
+おとこのこは いつか
 たびに でるもの なのよ
 うん…… テレビの はなしよ！
 #+END_EXAMPLE
-Mother: ([[jisho:おかあさん][おかあさん]]) ...... Ah ([[jisho:そうね][そうね]])
-Boys ([[jisho:おとこのこ][おとこのこ]]) leave ([[jisho:でる][でる]]) for ([[jisho:に][に]]) trips ([[jisho:たび][たび]]) from home ([[jisho:いっか][いっか]])
-huh? ([[jisho:なの][なの]]) Yeah ([[jisho:うん][うん]])...... The TV ([[jisho:テレビ][テレビ]]) talked about it ([[jisho:の][の]] [[jisho:はなし][はなし]])!
+Mother: ([[jisho:おかあさん][おかあさん]]) ...... Ah ([[jisho:そうね][そうね]]) Boys ([[jisho:おとこのこ][おとこのこ]]) will ([[jisho:は][は]])
+one day ([[jisho:いつか][いつか]]) be people ([[jisho:もの][もの]]) leaving ([[jisho:でる][でる]]) for ([[jisho:に][に]]) trips huh?
+([[jisho:な
+の][なの]]) Yeah ([[jisho:うん][うん]])...... The TV ([[jisho:テレビ][テレビ]]) talked about it! ([[jisho:の][の]] [[jisho:はなし][はなし]])
+
+The [[jisho:もの][もの]] here means person, and it is being modified by the action
+before it. Meaning "たびに でるもの" means "People leaving for trips".
 
 Also, this bothers me, why is there no closing 』? Will this be the
 standard way to quote characters? Maybe something in the next part?

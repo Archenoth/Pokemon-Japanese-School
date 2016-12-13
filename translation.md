@@ -1,3 +1,4 @@
+
 This file will be my translation of Pokemon Green, and will accompany
 the `.sav` file included in this repository.
 
@@ -12,6 +13,7 @@ level. I will also link a ridiculous amount of vocabulary so they are
 easy to look up. Even so, it is recommended to be familiar with
 [Hiragana](https://www.tofugu.com/japanese/learn-hiragana/) and [Katakana](https://www.tofugu.com/japanese/learn-katakana/), as well as some basic Japanese Grammar. I'll
 try to explain some of the more tricky points though.
+
 
 # The title and menus
 
@@ -38,6 +40,7 @@ After saving, a third option appears at the top:
     つづきからはじめる
 
 「Start ([はじめる](http://jisho.org/search?utf8=%E2%9C%93&keyword=はじめる)) from ([から](http://jisho.org/search?utf8=%E2%9C%93&keyword=から)) last ([つづき](http://jisho.org/search?utf8=%E2%9C%93&keyword=つづき))」
+
 
 ## Settings
 
@@ -71,6 +74,7 @@ best type, and you should use it.)
 Finally, the last word in the screen means "Finish" ([おわり](http://jisho.org/search?utf8=%E2%9C%93&keyword=おわり)) .
 
 Now, time for the actual game!
+
 
 # The Oakster's speech
 
@@ -266,6 +270,7 @@ things to it like with [や](https://www.renshuu.org/grammar/469/%E3%82%84). The
 
 "Red go!"
 
+
 # The in-game menu
 
 The in-game menu has a few entries
@@ -288,6 +293,7 @@ And they mean:
 
 The only non-obvious one in here is "Report", which basically means
 save.
+
 
 ## Save
 
@@ -323,6 +329,7 @@ Response:
     いいえ
 
 Yes ([はい](http://jisho.org/search?utf8=%E2%9C%93&keyword=はい)) and no ([いいえ](http://jisho.org/search?utf8=%E2%9C%93&keyword=いいえ))
+
 
 # Your house!
 
@@ -383,13 +390,16 @@ It is full ([いっぱい](http://jisho.org/search?utf8=%E2%9C%93&keyword=いっ
 And finally, of course, is your mother, who says:
 
     おかあさん『…… そうね
-    おとこのこは いっか
+    おとこのこは いつか
     たびに でるもの なのよ
     うん…… テレビの はなしよ！
 
-Mother: ([おかあさん](http://jisho.org/search?utf8=%E2%9C%93&keyword=おかあさん)) &#x2026;&#x2026; Ah ([そうね](http://jisho.org/search?utf8=%E2%9C%93&keyword=そうね))
-Boys ([おとこのこ](http://jisho.org/search?utf8=%E2%9C%93&keyword=おとこのこ)) leave ([でる](http://jisho.org/search?utf8=%E2%9C%93&keyword=でる)) for ([に](http://jisho.org/search?utf8=%E2%9C%93&keyword=に)) trips ([たび](http://jisho.org/search?utf8=%E2%9C%93&keyword=たび)) from home ([いっか](http://jisho.org/search?utf8=%E2%9C%93&keyword=いっか))
-huh? ([なの](http://jisho.org/search?utf8=%E2%9C%93&keyword=なの)) Yeah ([うん](http://jisho.org/search?utf8=%E2%9C%93&keyword=うん))&#x2026;&#x2026; The TV ([テレビ](http://jisho.org/search?utf8=%E2%9C%93&keyword=テレビ)) talked about it ([の](http://jisho.org/search?utf8=%E2%9C%93&keyword=の) [はなし](http://jisho.org/search?utf8=%E2%9C%93&keyword=はなし))!
+Mother: ([おかあさん](http://jisho.org/search?utf8=%E2%9C%93&keyword=おかあさん)) &#x2026;&#x2026; Ah ([そうね](http://jisho.org/search?utf8=%E2%9C%93&keyword=そうね)) Boys ([おとこのこ](http://jisho.org/search?utf8=%E2%9C%93&keyword=おとこのこ)) will ([は](http://jisho.org/search?utf8=%E2%9C%93&keyword=は))
+one day ([いつか](http://jisho.org/search?utf8=%E2%9C%93&keyword=いつか)) be people ([もの](http://jisho.org/search?utf8=%E2%9C%93&keyword=もの)) leaving ([でる](http://jisho.org/search?utf8=%E2%9C%93&keyword=でる)) for ([に](http://jisho.org/search?utf8=%E2%9C%93&keyword=に)) trips huh?
+([なの](http://jisho.org/search?utf8=%E2%9C%93&keyword=な の)) Yeah ([うん](http://jisho.org/search?utf8=%E2%9C%93&keyword=うん))&#x2026;&#x2026; The TV ([テレビ](http://jisho.org/search?utf8=%E2%9C%93&keyword=テレビ)) talked about it! ([の](http://jisho.org/search?utf8=%E2%9C%93&keyword=の) [はなし](http://jisho.org/search?utf8=%E2%9C%93&keyword=はなし))
+
+The [もの](http://jisho.org/search?utf8=%E2%9C%93&keyword=もの) here means person, and it is being modified by the action
+before it. Meaning "たびに でるもの" means "People leaving for trips".
 
 Also, this bothers me, why is there no closing 』? Will this be the
 standard way to quote characters? Maybe something in the next part?
@@ -408,6 +418,7 @@ Also, because it collides with [よむ](http://jisho.org/search?utf8=%E2%9C%93&k
 the past-て form [よぶ](http://jisho.org/search?utf8=%E2%9C%93&keyword=よぶ).
 
 And with that, we can get moving into the rest of the town!
+
 
 # The town
 
