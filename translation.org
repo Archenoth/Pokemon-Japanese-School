@@ -7,7 +7,7 @@
 #+LINK: translate https://translate.google.com/?sl=ja&tl=en&hl=en&q=
 #+LINK: jisho http://jisho.org/search?utf8=%E2%9C%93&keyword=
 #+TAGS: Translation(t)
-#+OPTIONS: ^:nil H:3 p:nil tags:not-in-toc todo:nil toc:nil
+#+OPTIONS: ^:nil H:3 p:nil todo:nil toc:nil
 #+PROPERTY: header-args :exports both :eval never-export
 #+LANGUAGE: jp
 #+LATEX_CLASS: japanese
@@ -15,7 +15,6 @@
 #+LATEX_HEADER: \usepackage{parskip}
 #+LATEX_HEADER: \usemintedstyle{friendly}
 #+LATEX_HEADER: \renewcommand{\contentsname}{Table of Contents}
-#+TOC: headlines 3
 #+LATEX: \pagebreak
 :END:
 
