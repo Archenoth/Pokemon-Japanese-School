@@ -12,7 +12,7 @@ There really are only a few things to translate here, and those are the title:
 
     ポケットモンスター
 
-This says "Pocket Monsters" ([ポッケトモンスター](http://jisho.org/search?utf8=%E2%9C%93&keyword=ポッケトモンスター)), or what "Pokemon" ([ポケモン](http://jisho.org/search?utf8=%E2%9C%93&keyword=ポケモ ン)) is a contraction of.
+This says "Pocket Monsters" ([ポッケトモンスター](http://jisho.org/search?utf8=%E2%9C%93&keyword=ポッケトモンスター)), or what "Pokemon" ([ポケモン](http://jisho.org/search?utf8=%E2%9C%93&keyword=ポケモン)) is a contraction of.
 
 The following menu has two options:
 
@@ -48,7 +48,7 @@ So basically, "See battle animations" or "Omit battle animations".
     しあいの ルール
       いれかえタイプ   からぬきタイプ
 
-This setting means「Match ([しあい](http://jisho.org/search?utf8=%E2%9C%93&keyword=しあい)) rules ([ルール](http://jisho.org/search?utf8=%E2%9C%93&keyword=ルール))」and the two options are「Switching ([いれかえ](http://jisho.org/search?utf8=%E2%9C%93&keyword=いれかえ)) type ([タイプ](http://jisho.org/search?utf8=%E2%9C%93&keyword=タイプ))」and「From ([から](http://jisho.org/search?utf8=%E2%9C%93&keyword=から)) succession ([ぬき](http://jisho.org/search?utf8=%E2%9C%93&keyword=ぬ き)) type ([タイプ](http://jisho.org/search?utf8=%E2%9C%93&keyword=タイプ))」
+This setting means「Match ([しあい](http://jisho.org/search?utf8=%E2%9C%93&keyword=しあい)) rules ([ルール](http://jisho.org/search?utf8=%E2%9C%93&keyword=ルール))」and the two options are「Switching ([いれかえ](http://jisho.org/search?utf8=%E2%9C%93&keyword=いれかえ)) type ([タイプ](http://jisho.org/search?utf8=%E2%9C%93&keyword=タイプ))」and「From ([から](http://jisho.org/search?utf8=%E2%9C%93&keyword=から)) succession ([ぬき](http://jisho.org/search?utf8=%E2%9C%93&keyword=ぬき)) type ([タイプ](http://jisho.org/search?utf8=%E2%9C%93&keyword=タイプ))」
 
 These are the two classic battle types for Pokemon, the switch type which lets you switch Pokemon after you defeat an opponent (Easy mode) and "Set type" where you have to use a turn to switch. (Which is the best type, and you should use it.)
 
@@ -66,7 +66,7 @@ The game begins with a speech from, as we know him, Professor Oak:
     ポケット モンスターの せかいへ
     ようこそ！
 
-This says "Hello! ([はじめまして](http://jisho.org/search?utf8=%E2%9C%93&keyword=はじめまして)！) Welcome ([ようこそ](http://jisho.org/search?utf8=%E2%9C%93&keyword=ようこそ)) to ([へ](https://www.renshuu.org/grammar/468/%E3%81%B8)) the world ([せかい](http://jisho.org/search?utf8=%E2%9C%93&keyword=せかい)) of ([の](https://www.renshuu.org/grammar/132/の)) Pocket Monsters ([ポケット モンスター](http://jisho.org/search?utf8=%E2%9C%93&keyword=ポケット モンスター))！"
+This says "Hello! ([はじめまして](http://jisho.org/search?utf8=%E2%9C%93&keyword=はじめまして)！) Welcome ([ようこそ](http://jisho.org/search?utf8=%E2%9C%93&keyword=ようこそ)) to ([へ](https://www.renshuu.org/grammar/468/%E3%81%B8)) the world ([せかい](http://jisho.org/search?utf8=%E2%9C%93&keyword=せかい)) of ([の](https://www.renshuu.org/grammar/132/の)) Pocket Monsters ([ポケット モンスター](http://jisho.org/search?utf8=%E2%9C%93&keyword=ポケットモンスター))！"
 
     わたしの なまえは オーキド
     みんなからは ポケモン はかせと
@@ -85,7 +85,7 @@ So it's like saying "times that everyone has called me the Pokemon Dr. have exis
     いきもの たちが
     いたるところに すんでいる！
 
-For ([には](http://jisho.org/search?utf8=%E2%9C%93&keyword=には)) this ([この](http://jisho.org/search?utf8=%E2%9C%93&keyword=この)) world ([せかい](http://jisho.org/search?utf8=%E2%9C%93&keyword=せかい)), the living things ([いきもの](http://jisho.org/search?utf8=%E2%9C%93&keyword=いきもの)) called ([よばれる](http://jisho.org/search?utf8=%E2%9C%93&keyword=よばれる)) Pocket Monsters ([ポケット モンスター](http://jisho.org/search?utf8=%E2%9C%93&keyword=ポケット モンスター)) live ([すんでいる](http://jisho.org/search?utf8=%E2%9C%93&keyword=すんでいる)) everywhere ([いたるところ](http://jisho.org/search?utf8=%E2%9C%93&keyword=いたるところ)).
+For ([には](http://jisho.org/search?utf8=%E2%9C%93&keyword=には)) this ([この](http://jisho.org/search?utf8=%E2%9C%93&keyword=この)) world ([せかい](http://jisho.org/search?utf8=%E2%9C%93&keyword=せかい)), the living things ([いきもの](http://jisho.org/search?utf8=%E2%9C%93&keyword=いきもの)) called ([よばれる](http://jisho.org/search?utf8=%E2%9C%93&keyword=よばれる)) Pocket Monsters ([ポケット モンスター](http://jisho.org/search?utf8=%E2%9C%93&keyword=ポケットモンスター)) live ([すんでいる](http://jisho.org/search?utf8=%E2%9C%93&keyword=すんでいる)) everywhere ([いたるところ](http://jisho.org/search?utf8=%E2%9C%93&keyword=いたるところ)).
 
 "called Pocket Monsters" (ポケット モンスター と よばれる) [modifies](http://www.guidetojapanese.org/subclause.html#part3) 「いきもの」(Living thing) たち (plural), giving us "The living things called Pocket Monsters&#x2026;"
 
@@ -200,7 +200,7 @@ Finally ([いよいよ](http://jisho.org/search?utf8=%E2%9C%93&keyword=いよい
     ポケット モンスターの せかいへ！
 
 Dreams ([ゆめ](http://jisho.org/search?utf8=%E2%9C%93&keyword=ゆめ)) and adventures ([ぼうけん](http://jisho.org/search?utf8=%E2%9C%93&keyword=ぼうけん))!
-Go to ([へ](http://jisho.org/search?utf8=%E2%9C%93&keyword=へ)) the World ([せかい](http://jisho.org/search?utf8=%E2%9C%93&keyword=せかい)) of ([の](http://jisho.org/search?utf8=%E2%9C%93&keyword=の)) Pocket Monsters ([ポケット モンスター](http://jisho.org/search?utf8=%E2%9C%93&keyword=ポケット モンスター))!
+Go to ([へ](http://jisho.org/search?utf8=%E2%9C%93&keyword=へ)) the World ([せかい](http://jisho.org/search?utf8=%E2%9C%93&keyword=せかい)) of ([の](http://jisho.org/search?utf8=%E2%9C%93&keyword=の)) Pocket Monsters ([ポケット モンスター](http://jisho.org/search?utf8=%E2%9C%93&keyword=ポケットモンスター))!
 
 The [と](https://www.renshuu.org/grammar/110/%E3%81%A8) here is an exhaustive list. This means that you can't add things to it like with [や](https://www.renshuu.org/grammar/469/%E3%82%84). The [へ](https://www.renshuu.org/grammar/468/%E3%81%B8) at the end means "Go to" basically.
 

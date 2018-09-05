@@ -31,8 +31,7 @@ There really are only a few things to translate here, and those are the title:
 ポケットモンスター
 #+END_EXAMPLE
 
-This says "Pocket Monsters" ([[jisho:ポッケトモンスター][ポッケトモンスター]]), or what "Pokemon" ([[jisho:ポケモ
-ン][ポケモン]]) is a contraction of.
+This says "Pocket Monsters" ([[jisho:ポッケトモンスター][ポッケトモンスター]]), or what "Pokemon" ([[jisho:ポケモン][ポケモン]]) is a contraction of.
 
 The following menu has two options:
 
@@ -72,7 +71,7 @@ So basically, "See battle animations" or "Omit battle animations".
 しあいの ルール
   いれかえタイプ   からぬきタイプ
 #+END_EXAMPLE
-This setting means「Match ([[jisho:しあい][しあい]]) rules ([[jisho:ルール][ルール]])」and the two options are「Switching ([[jisho:いれかえ][いれかえ]]) type ([[jisho:タイプ][タイプ]])」and「From ([[jisho:から][から]]) succession ([[jisho:ぬ き][ぬき]]) type ([[jisho:タイプ][タイプ]])」
+This setting means「Match ([[jisho:しあい][しあい]]) rules ([[jisho:ルール][ルール]])」and the two options are「Switching ([[jisho:いれかえ][いれかえ]]) type ([[jisho:タイプ][タイプ]])」and「From ([[jisho:から][から]]) succession ([[jisho:ぬき][ぬき]]) type ([[jisho:タイプ][タイプ]])」
 
 These are the two classic battle types for Pokemon, the switch type which lets you switch Pokemon after you defeat an opponent (Easy mode) and "Set type" where you have to use a turn to switch. (Which is the best type, and you should use it.)
 
@@ -89,7 +88,7 @@ The game begins with a speech from, as we know him, Professor Oak:
 ようこそ！
 #+END_EXAMPLE
 
-This says "Hello! ([[jisho:はじめまして][はじめまして]]！) Welcome ([[jisho:ようこそ][ようこそ]]) to ([[https://www.renshuu.org/grammar/468/%E3%81%B8][へ]]) the world ([[jisho:せかい][せかい]]) of ([[https://www.renshuu.org/grammar/132/の][の]]) Pocket Monsters ([[jisho:ポケット モンスター][ポケット モンスター]])！"
+This says "Hello! ([[jisho:はじめまして][はじめまして]]！) Welcome ([[jisho:ようこそ][ようこそ]]) to ([[https://www.renshuu.org/grammar/468/%E3%81%B8][へ]]) the world ([[jisho:せかい][せかい]]) of ([[https://www.renshuu.org/grammar/132/の][の]]) Pocket Monsters ([[jisho:ポケットモンスター][ポケット モンスター]])！"
 
 #+BEGIN_EXAMPLE
 わたしの なまえは オーキド
@@ -111,7 +110,7 @@ So it's like saying "times that everyone has called me the Pokemon Dr. have exis
 いたるところに すんでいる！
 #+END_EXAMPLE
 
-For ([[jisho:には][には]]) this ([[jisho:この][この]]) world ([[jisho:せかい][せかい]]), the living things ([[jisho:いきもの][いきもの]]) called ([[jisho:よばれる][よばれる]]) Pocket Monsters ([[jisho:ポケット モンスター][ポケット モンスター]]) live ([[jisho:すんでいる][すんでいる]]) everywhere ([[jisho:いたるところ][いたるところ]]).
+For ([[jisho:には][には]]) this ([[jisho:この][この]]) world ([[jisho:せかい][せかい]]), the living things ([[jisho:いきもの][いきもの]]) called ([[jisho:よばれる][よばれる]]) Pocket Monsters ([[jisho:ポケットモンスター][ポケット モンスター]]) live ([[jisho:すんでいる][すんでいる]]) everywhere ([[jisho:いたるところ][いたるところ]]).
 
 "called Pocket Monsters" (ポケット モンスター と よばれる) [[http://www.guidetojapanese.org/subclause.html#part3][modifies]] 「いきもの」(Living thing) たち (plural), giving us "The living things called Pocket Monsters..."
 
@@ -240,7 +239,7 @@ Finally ([[jisho:いよいよ][いよいよ]]) from now on ([[jisho:これから
 ポケット モンスターの せかいへ！
 #+END_EXAMPLE
 Dreams ([[jisho:ゆめ][ゆめ]]) and adventures ([[jisho:ぼうけん][ぼうけん]])!
-Go to ([[jisho:へ][へ]]) the World ([[jisho:せかい][せかい]]) of ([[jisho:の][の]]) Pocket Monsters ([[jisho:ポケット モンスター][ポケット モンスター]])!
+Go to ([[jisho:へ][へ]]) the World ([[jisho:せかい][せかい]]) of ([[jisho:の][の]]) Pocket Monsters ([[jisho:ポケットモンスター][ポケット モンスター]])!
 
 The [[https://www.renshuu.org/grammar/110/%E3%81%A8][と]] here is an exhaustive list. This means that you can't add things to it like with [[https://www.renshuu.org/grammar/469/%E3%82%84][や]]. The [[https://www.renshuu.org/grammar/468/%E3%81%B8][へ]] at the end means "Go to" basically.
 
